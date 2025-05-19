@@ -1,13 +1,13 @@
 {
   "dependencies": {
-    "com.qualcomm.snapdragon.spaces": "file:C:/Users/CM2024/Documents/NICOLAS GUARIN X/00 - RECURSOS/02 - SDK´S/VRMR_Snapdragon_Spaces_SDK_1_0_1_for_Unity/Unity Package/com.qualcomm.snapdragon.spaces-1.0.1.tgz",
+    "com.qualcomm.snapdragon.spaces": "file:C:/Users/Familia Guarin R/Desktop/Realida Virtual Recursos/com.qualcomm.snapdragon.spaces-1.0.2.tgz",
     "com.unity.collab-proxy": "2.8.2",
     "com.unity.feature.development": "1.0.1",
-    "com.unity.textmeshpro": "3.0.7",
+    "com.unity.textmeshpro": "3.0.6",
     "com.unity.timeline": "1.7.6",
     "com.unity.ugui": "1.0.0",
-    "com.unity.visualscripting": "1.9.4",
-    "com.unity.xr.openxr": "1.10.0",
+    "com.unity.visualscripting": "1.9.1",
+    "com.unity.xr.openxr": "1.9.1",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
